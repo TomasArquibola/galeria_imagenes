@@ -1,6 +1,7 @@
 # galeria_imagenes
 
 Objetivo del Proyecto
+
 El objetivo de este proyecto es crear una galería de imágenes interactiva y responsiva utilizando HTML, CSS y JavaScript. La aplicación incorpora diversas funcionalidades, como:
 - Un carrusel de imágenes con transición automática y manual.
 - Modal para ver las imágenes en tamaño ampliado.
